@@ -1,0 +1,153 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+
+}
+
+.titul{
+    background: hsl(199, 100%, 50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 11vh;
+}
+
+.escrita1{
+    color: #181818;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+}
+
+.escrita2{
+    color: #181818;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+}
+
+.fundo{
+    background-image: url(image/wallpaper.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.3);
+    filter: brightness(50%);
+    background-attachment: fixed;
+}
+
+.bloco1{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    transform: translate(11vw,-35vh);
+}
+
+.texto1{
+    color: #f8f1f1;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    position: relative;
+    transform: translate(2vw, -40vh);
+}
+
+.texto2{
+    color: #faf4f4;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%; /* 38.4px */
+    position: relative;
+    transform: translate(1vw,-39vh);
+}
+
+.parte1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    position: relative;
+    top: -18vh;
+}
+
+section{
+    height: 120vh;
+    width: 90vw;
+    background-color: rgb(250, 247, 247);
+    margin: 0 auto;
+    position: relative;
+    top: -18vh;
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+}
+
+
+.blocos{
+    width: 415px;
+    height: 302px;
+    flex-shrink: 0;
+    background: #EBE9EA;
+    display: inline-block;
+    margin: 5px;
+}
+
+.imagem{
+    background-image: url(image/1.png);
+    height: 32vh;
+    width: 30vw;
+}
+
+.imagem1{
+    background-image: url(image/2.png);
+    height: 32vh;
+    width: 30vw;
+}
+
+.imagem2{
+    background-image: url(image/3.png);
+    height: 32vh;
+    width: 30vw;
+}
+
+.imagem3{
+    background-image: url(image/4.png );
+    height: 39vh;
+    width: 3vw;
+}
+
+.imagem4{
+    background-image: url(image/5.png);
+    height: 32vh;
+    width: 30vw;
+}
+
+.imagem5{
+    background-image: url(image/6.png);
+    height: 32vh;
+    width: 30vw;
+}
