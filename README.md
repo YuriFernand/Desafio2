@@ -1,7 +1,7 @@
 # Desafio2_Site_Venda
 
 <h2>Discição Do Projeto</h2>
-<p>Desafios de front-end com projetos práticos da comunidade Codelândia no Discord (<a href="https://discord.com/channels/853354677411905578/853363178901733387">Link Discord</a>, idealizada pelo Iuri Silva. <br>
+<p>Desafios de front-end com projetos práticos da comunidade Codelândia no Discord (<a href="https://discord.com/channels/853354677411905578/853363178901733387">Link Discord</a>), idealizada pelo Iuri Silva. <br>
   figma do projeto:<a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=1883%3A2&mode=dev">Figma_Desafio02</a> <br>
   O desafio é criar uma pagina de venda de calçados.
 </p>
